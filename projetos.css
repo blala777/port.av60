@@ -1,0 +1,60 @@
+
+*{
+    
+    max-width: 800px;
+    max-height: 1000px;
+    background-color: black;
+    color: white;
+    width: 100%;
+}
+
+
+
+
+.holder{
+    text-align: left; 
+    display: flex;
+    margin: auto;
+    align-items: center;
+justify-items: right ;    
+font-weight: 400;
+    font-size: 1.30rem;
+    padding: 10px 15px;
+
+}
+
+.holder p{
+    border-style: dotted;
+    border-left: 1px solid chartreuse;
+    border-right: 1px solid chartreuse;
+    padding: 10px 15px;
+    margin: 0;
+}
+
+.top{
+
+    width: 248;
+    height: 30;
+    border: 1px solid chartreuse;
+    background-color: blueviolet;
+
+    
+}
+
+.top h3{
+    margin: 0;
+    line-height: 30px;
+    padding: 0px 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+
+}
+
+.bottom{
+    margin: flex;
+
+    width: 248px;
+    height: 10px;
+    border: 1px solid chartreuse;
+
+}

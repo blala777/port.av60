@@ -1,0 +1,85 @@
+*{
+
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+
+body{
+    background-color: black;
+    color: white;
+    width: 100%;
+}
+
+
+
+
+
+#perfil {
+    display: flex;
+    justify-content: center;
+    gap: 5rem;
+    height: 80vh;
+
+}
+
+.foto {
+display: flex;
+height: 400px;
+width: 400px;
+margin: auto 0;
+}
+
+.textoPerfil{
+    align-self: center;
+    text-align: center;
+}
+
+.textoP1{
+    font-weight: 600;
+    font-size: 1.30rem;
+
+}
+
+.textoH1{
+    text-align: center;
+    font-size: 2.75rem;
+    margin-bottom: 1rem;
+}
+
+.textoP2{
+    font-weight: 400;
+    font-size: 1.20rem;
+
+}
+
+.botão{
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    padding: 12px 20px;
+    border: none; 
+    border-radius: 4px;
+    width: 20rem;
+
+}
+
+
+
+header{
+    align-self: left;
+    text-align: left; 
+    width: 95%;
+    height: 200px;
+    margin: auto;
+    font-weight: 600;
+    font-size: 1.30rem;
+
+
+}
+
+
+
+
+
+
